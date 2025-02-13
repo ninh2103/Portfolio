@@ -2,8 +2,6 @@ import {
   FiGithub,
   FiTwitter,
   FiLinkedin,
-  FiGlobe,
-  FiYoutube,
   FiFacebook,
   FiInstagram,
 } from "react-icons/fi";
