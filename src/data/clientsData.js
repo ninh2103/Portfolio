@@ -1,54 +1,54 @@
 // Import images
-import AmazonImage from '../images/brands/amazon_gray.png';
-import SonyImage from '../images/brands/sony_gray.png';
-import AdidasImage from '../images/brands/adidas_gray.png';
-import FilaImage from '../images/brands/fila_gray.png';
-import NBImage from '../images/brands/nb_gray.png';
-import SamsungImage from '../images/brands/samsung_gray.png';
-import CanonImage from '../images/brands/canon_gray.png';
-import PumaImage from '../images/brands/puma_gray.png';
+import mongodbImage from "../images/brands/mongodb-.png";
+import nestImage from "../images/brands/nestjs.png";
+import nextImage from "../images/brands/next-js.png";
+import nodeImage from "../images/brands/node-js-.png";
+import postmanImage from "../images/brands/postman-.png";
+import reactImage from "../images/brands/prisma-seeklogo.png";
+import tailwindImage from "../images/brands/tailwind-css.png";
+import typescriptImage from "../images/brands/typescript.png";
 
-export const clientsHeading = 'Some of the brands that trust me';
+export const clientsHeading = "Some Tools & Technologies";
 
 export const clientsData = [
-	{
-		id: 1,
-		title: 'Amazon',
-		img: AmazonImage,
-	},
-	{
-		id: 2,
-		title: 'Sony',
-		img: SonyImage,
-	},
-	{
-		id: 3,
-		title: 'Adidas',
-		img: AdidasImage,
-	},
-	{
-		id: 4,
-		title: 'FILA',
-		img: FilaImage,
-	},
-	{
-		id: 5,
-		title: 'NB',
-		img: NBImage,
-	},
-	{
-		id: 6,
-		title: 'SAMSUNG',
-		img: SamsungImage,
-	},
-	{
-		id: 7,
-		title: 'CANON',
-		img: CanonImage,
-	},
-	{
-		id: 8,
-		title: 'PUMA',
-		img: PumaImage,
-	},
+  {
+    id: 1,
+    title: "Nest",
+    img: nestImage,
+  },
+  {
+    id: 2,
+    title: "Next",
+    img: nextImage,
+  },
+  {
+    id: 3,
+    title: "Postman",
+    img: postmanImage,
+  },
+  {
+    id: 4,
+    title: "mongo",
+    img: mongodbImage,
+  },
+  {
+    id: 5,
+    title: "Node",
+    img: nodeImage,
+  },
+  {
+    id: 6,
+    title: "React",
+    img: reactImage,
+  },
+  {
+    id: 7,
+    title: "typescript",
+    img: typescriptImage,
+  },
+  {
+    id: 8,
+    title: "tailwind",
+    img: tailwindImage,
+  },
 ];

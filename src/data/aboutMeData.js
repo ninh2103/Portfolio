@@ -1,10 +1,14 @@
 export const aboutMeData = [
-	{
-		id: 1,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-	},
-	{
-		id: 2,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-	},
+  {
+    id: 1,
+    bio: "I am a final-year Software Engineering student with a strong passion for web development. I specialize in modern web technologies, including Next.js, Node.js, React, and NestJS, to build scalable and high-performance applications.",
+  },
+  {
+    id: 2,
+    bio: "With a deep understanding of both frontend and backend development, I enjoy creating seamless user experiences and optimizing system performance. I am always eager to learn and explore new technologies to enhance my skills and stay updated with industry trends.",
+  },
+  {
+    id: 3,
+    bio: "Feel free to check out my portfolio to see my latest projects!",
+  },
 ];
